@@ -1,2 +1,2 @@
-# Code-war-challange
-Repositori untuk menyimpan challenge fundamental JavaScript code war 
+# Code-war-challenge
+Repository untuk menyimpan challenge fundamental JavaScript code war 
